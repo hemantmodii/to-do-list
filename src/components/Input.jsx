@@ -12,7 +12,7 @@ const Input = ({taskList, setTaskList}) => {
   return (
     <div>
       <h1
-      className='my-2 mx-auto font-extrabold text-4xl'
+      className='my-2 mx-auto font-extrabold text-4xl mb-8'
       >To-do List</h1>
       <form action="">
         <input 
